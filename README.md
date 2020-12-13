@@ -1,2 +1,6 @@
 # ECE385-Tank-World-on-FPGA
-Repos for ECE385 final project
+Tank world game on FPGA. 
+
+Authors: Heyi Tao, Hongshuo Zhang
+
+All files in this repos is for displaying purpose. Any use, copy, or adaptation of any files in this repos for personal use without premission is illegal.
